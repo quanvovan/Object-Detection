@@ -1,2 +1,4 @@
-Tu?n 1 : T�m hi?u v? t�c v? 
-Deadline report : 23h59 ng�y 02/10/2019
+```
+Tuần 1 : tìm hiểu các tác vụ thực hiện đồ án
+Deadline report : 23h59 ngày 02/10/2019
+```
